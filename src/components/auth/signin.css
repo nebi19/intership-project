@@ -1,0 +1,51 @@
+.d-flex {
+    display: flex !important;
+}
+
+.formcontrol {
+    height: 40px !important;
+    width:100%;
+    background: #fff !important;
+    color: #000000 !important;
+    font-size: 15px;
+    border-radius: 0px;
+    box-shadow: none !important;
+}
+button,input:focus {
+    border-color:	rgb(0, 0, 0,0.1) !important;
+    background-color: #fff;
+    outline: 0;
+    box-shadow:	rgb(0, 0, 0,3) !important;
+    overflow: visible;
+}
+@media (max-width: 480px){
+.form-control {
+    margin-left: 5%;
+    height: 40px !important;
+    width:130%;
+    background: #fff !important;
+    color: #000000 !important;
+    font-size: 15px;
+    border-radius: 0px;
+    box-shadow: none !important;
+
+}
+.contact-form{
+    padding-left:10px !important
+}
+.a{
+    margin-left: 1px !important;
+    margin-right: auto;
+}
+.row ,block-6
+.order-md-last {
+    order: 15;
+}
+}
+@media (max-width: 480px)
+{
+.col-md-6 {
+    flex: 0 0 50%;
+    margin-left: 1%;
+}
+}

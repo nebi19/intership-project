@@ -1,0 +1,24 @@
+.btn-r{
+    width: 200px !important;
+
+}
+.btn-r1{
+    font-size:20px !important;
+
+}
+.btn-r1:hover{
+    color: honeydew!important;
+    background-color: green!important;
+
+}
+.psw-input{
+    height: 50px !important;
+}
+.title{
+    font-size: 30px!important;
+    color: black!important;
+}
+.signIn{
+    cursor: pointer;
+    
+}
